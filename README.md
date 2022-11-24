@@ -1,2 +1,1 @@
-# sneakerstore
-E-commerce website
+TinDog Starting Files
